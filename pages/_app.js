@@ -5,6 +5,7 @@ import Head from "next/head";
 export default function App({ Component, pageProps }) {
   return (
     <>
+      
       <Head>
         {/* Nav font (if you already have it, keep it) */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
